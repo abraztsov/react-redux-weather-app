@@ -1,0 +1,22 @@
+@import 'variables';
+
+body {
+  color: $color-black;
+  font-size: 1em;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+input, button {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}

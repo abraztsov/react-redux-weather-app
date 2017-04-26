@@ -1,0 +1,5 @@
+export const ACTION_STATUS = {
+  FETCHING: 'FETCHING',
+  SUCCESS: 'SUCCESS',
+  ERROR: 'ERROR'
+};
